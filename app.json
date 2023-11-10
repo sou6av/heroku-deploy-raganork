@@ -1,11 +1,11 @@
 {
-    "name": "rgnk wabot",
-    "description": "WhatsApp public/user bot",
+    "name": "raganork-wabot",
+    "description": "WhatsApp public/user bot project",
     "logo": "",
     "keywords": ["WhatsApp"],
-    "repository": "https://github.com/souravkl11/raganork-md",
-    "website":   "https://raganork.ml",
-    "success_url": "https://raganork.ml",
+    "repository": "https://github.com/souravkl11/raganork-md/",
+    "website":   "https://raganork.tk",
+    "success_url": "https://raganork.tk",
     "stack": "container",
     "env": {
         "HANDLERS": {
